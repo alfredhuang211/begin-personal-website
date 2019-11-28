@@ -5,6 +5,7 @@ art-1jn
 
 @http
 get /
+get /test
 
 @tables
 data
